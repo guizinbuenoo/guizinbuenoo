@@ -69,6 +69,26 @@
 
 ---
 
+### 🚀 Projeto em destaque — Arkan Store
+
+Sistema desktop de **entregas e licenciamento digital**, criado para automatizar a venda de produtos digitais (mods gráficos e ferramentas para jogos, ex: FiveM/GTA RP).
+
+- 🔑 Geração automática de chaves de licença únicas por cliente/produto
+- 📦 Montagem automática do pacote de entrega com os arquivos do produto
+- 📄 Emissão de contrato de licença e e-mail com termos legais
+- 🛡️ Verificação de integridade dos arquivos via hash SHA-256
+- ☁️ Integração com Supabase para validação remota de licenças
+- 🖥️ Interface gráfica moderna construída com CustomTkinter
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Em%20produção-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Repositório-Privado%20(projeto%20comercial)-lightgrey?style=for-the-badge&logo=github"/>
+</p>
+
+> 🔒 Código-fonte privado, por se tratar de um produto comercial ativo. Quer saber mais sobre a arquitetura ou ver uma demonstração? [Me chame no LinkedIn](https://www.linkedin.com/in/guilherme-henrique-bueno-71a032315/) ou [envie um e-mail](mailto:guilhermebueno502@gmail.com).
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <p align="center">

@@ -21,7 +21,7 @@
 
 - 🎓 Estudante de **Engenharia de Software**, sempre em busca de aprendizado rápido e prática constante.
 - 🧩 Gosto de transformar problemas reais em soluções simples, organizadas e escaláveis.
-- 💼 Atualmente: **Estagiário de TI** na Prefeitura Municipal da Lapa (PR), com suporte técnico, redes e manutenção de computadores.
+- 💼 Atualmente: **Estagiário de TI** na Câmara Municipal da Lapa (PR), com suporte técnico, redes e manutenção de computadores.
 - 🛠️ Já trabalhei com suporte técnico, sistemas de entrega/licenciamento digital e automações com bots e workflows.
 - 🌱 Estudando arquitetura MVC, engenharia de requisitos e desenvolvimento web moderno.
 - 🎯 Objetivo: atuar como desenvolvedor de software, contribuindo em projetos que unam código limpo, boa arquitetura e impacto real para o usuário.

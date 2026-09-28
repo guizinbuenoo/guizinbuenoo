@@ -21,6 +21,7 @@
 
 - 🎓 Estudante de **Engenharia de Software**, sempre em busca de aprendizado rápido e prática constante.
 - 🧩 Gosto de transformar problemas reais em soluções simples, organizadas e escaláveis.
+- 💼 Atualmente: **Estagiário de TI** na Prefeitura Municipal da Lapa (PR), com suporte técnico, redes e manutenção de computadores.
 - 🛠️ Já trabalhei com suporte técnico, sistemas de entrega/licenciamento digital e automações com bots e workflows.
 - 🌱 Estudando arquitetura MVC, engenharia de requisitos e desenvolvimento web moderno.
 - 🎯 Objetivo: atuar como desenvolvedor de software, contribuindo em projetos que unam código limpo, boa arquitetura e impacto real para o usuário.
@@ -85,7 +86,31 @@ Sistema desktop de **entregas e licenciamento digital**, criado para automatizar
   <img src="https://img.shields.io/badge/Repositório-Privado%20(projeto%20comercial)-lightgrey?style=for-the-badge&logo=github"/>
 </p>
 
-> 🔒 Código-fonte privado, por se tratar de um produto comercial ativo. Quer saber mais sobre a arquitetura ou ver uma demonstração? [Me chame no LinkedIn](https://www.linkedin.com/in/guilherme-henrique-bueno-71a032315/) ou [envie um e-mail](mailto:guilhermebueno502@gmail.com).
+<p>
+  <a href="https://github.com/guizinbuenoo/arkan-store-demo">
+    <img src="https://img.shields.io/badge/Ver%20apresentação%20do%20projeto-arkan--store--demo-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+> 🔒 Código-fonte privado, por se tratar de um produto comercial ativo. A arquitetura, o fluxo e as tecnologias estão documentados no repositório público [arkan-store-demo](https://github.com/guizinbuenoo/arkan-store-demo). Quer saber mais sobre a arquitetura ou ver uma demonstração? [Me chame no LinkedIn](https://www.linkedin.com/in/guilherme-henrique-bueno-71a032315/) ou [envie um e-mail](mailto:guilhermebueno502@gmail.com).
+
+---
+
+### 🎯 Objetivos de carreira
+
+| Prazo | Objetivo |
+|---|---|
+| 🟢 Curto (até 1 ano) | Consolidar Python e SQL, publicar projetos acadêmicos aqui no GitHub e conquistar uma vaga de estágio em desenvolvimento |
+| 🟡 Médio (1 a 3 anos) | Concluir a graduação em Engenharia de Software e atuar como Desenvolvedor Júnior back-end, com certificações em nuvem |
+| 🔵 Longo (3 a 5+ anos) | Chegar a Desenvolvedor Pleno/Sênior, com experiência em arquitetura de software e projetos para empresas nacionais e internacionais |
+
+### 📚 Estudando agora
+
+- 🐍 Python (orientação a objetos e boas práticas)
+- 🗄️ Banco de dados e SQL (modelagem e consultas)
+- 🏗️ Arquitetura MVC e engenharia de requisitos
+- ☁️ Fundamentos de nuvem (Azure / AWS)
+- 🇺🇸 Inglês técnico
 
 ---
 
